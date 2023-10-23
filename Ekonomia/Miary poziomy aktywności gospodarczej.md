@@ -1,3 +1,8 @@
+---
+typ: Wykład
+data: 2023-10-21T10:10:00
+---
+Teoria i praktyka makroekonomii
 # Systemy 
 - MPS - system produkcji materialnej. Jedyną pracą która wytwarza dochód narodowy jest praca wydatkowa w sferze produkcji materialnej
 - SNA - system rachunków narodowych. Każda praca społecznie użyteczna jest pracą produkcyjną tworzącą dochód narodowy

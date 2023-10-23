@@ -1,3 +1,7 @@
+---
+typ: Wykład
+data: 2023-10-21T10:10:00
+---
 *Co to jest popyt na pracę?* Zapotrzebowanie przedsiębiorców na czynnik produkcji.
 Podaż pracy to oferta pracy którą ludzie na rynku zgłaszają za określoną płacę (rynkową).
 

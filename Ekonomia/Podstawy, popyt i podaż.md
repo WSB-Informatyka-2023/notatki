@@ -1,3 +1,7 @@
+---
+typ: Ćwiczenia
+data: 2023-10-08T10:10:00
+---
 # Książki
 - D. Begg - Mikroekonomia, Makroekonomia
 - Samuelson - Ekonomia 1 & 2

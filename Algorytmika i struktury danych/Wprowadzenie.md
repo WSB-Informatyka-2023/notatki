@@ -1,3 +1,7 @@
+---
+typ: Wykład
+data: 2023-10-08
+---
 # Książki
 https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algipv.htm#format/d
 
